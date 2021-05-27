@@ -5,8 +5,9 @@ and how you know, all works with English...
   
   - I want to become an Ethical Hacker in a near future, but for the moment I'm studing Web Development, and I'm making some Web Projects.
               
-              - If you want to reach me my e-mail is madrazonecogamy@gmail.com .
-                                      Regards from neco.
+              - If you want to reach me my e-mail is madrazonecogamy@gmail.com
+                                      Regards, neco.![tenor](https://user-images.githubusercontent.com/36177527/119909248-d3549700-bf2a-11eb-8323-281d4514ee5d.gif)
+
 
 
 - 👋 Hi, I’m @necogamy
