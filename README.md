@@ -8,7 +8,8 @@ and how you know, all works with English...
               - If you want to reach me my e-mail is madrazonecogamy@gmail.com
                                       Regards, neco.
                                       
-      ![tumblr_mgh274nsNe1r6zzcjo1_500](https://user-images.githubusercontent.com/36177527/119912909-ccca1d80-bf32-11eb-88c6-7f04eb0ad47e.gif)
+      ![DbLO](https://user-images.githubusercontent.com/36177527/120051559-81c60e00-bff7-11eb-85e0-329cfabe30d1.gif)
+
 
 
 
