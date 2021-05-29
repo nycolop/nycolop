@@ -18,5 +18,6 @@ Hello, I'm Nicolás and I am self-taught. I'm working of freelancer.
              
              - How to reach me: 
              
-             - Linkedin: https://www.linkedin.com/in/nicol%C3%A1s-l%C3%B3pez-babaa9211
+             - Linkedin: www.linkedin.com/in/nicogamy
+
              - E-mail: madrazonecogamy@gmail.com
