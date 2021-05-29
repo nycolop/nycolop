@@ -1,6 +1,6 @@
 - Soft Skills:
-- Web Development: Html5, Css3, JavaScript, Boostrap.
-- Mobile Development: Lua.
+    - Web Development: Html5, Css3, JavaScript, Boostrap.
+    - Mobile Development: Lua.
 
 - Hard Skills:
    - Problem-Solving
