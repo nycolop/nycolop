@@ -1,3 +1,5 @@
+Hello, I'm Nicolás and I am self-taught. I'm working of freelancer.
+
 - Soft Skills:
     - Web Development: Html5, Css3, JavaScript, Boostrap.
     - Mobile Development: Lua.
