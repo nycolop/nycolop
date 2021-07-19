@@ -1,5 +1,5 @@
 Hello, I'm Nicolás and I am self-taught. I'm working of freelancer.
-I love scripting oriented programming languages, like JavaScript, Python and Lua, and I'm trying to improve everyday.
+I enjoy scripting oriented programming languages, like JavaScript, Python and Lua, and I'm trying to improve everyday.
 
 - Hard Skills:
     - Web Development: JavaScript, Jquery, React & Redux, Css3, Sass, Boostrap, Html5.
