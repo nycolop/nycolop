@@ -15,6 +15,7 @@
 - **Mobile Development:** Lua.
 - *I can talk In English & Spanish.*
 
+<br>
 
 - In my career in programming, interacting with other programmers, and in so much self-learning too, I have acquired essentials **Soft Skills** too.
 - **And the most important that I have acquired It's:** *Self-Learning(Self-taught learning)*, *Researching(Useful skill)*, *Problem-Solving(Too important)*, *Teamwork(working with other programmers)*, *a bit of leadership(I was leader in some projects)*.
