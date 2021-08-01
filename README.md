@@ -4,16 +4,16 @@
 <br>
 
 ## **Hard Skills:**
-    - **Web Development:** JavaScript, Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
-    - **Tools that I use:** Google DevTools, Visual Studio Code, Markdown, Git, GitHub, NodeJS, Bash Unix Shell & Windows PowerShell.
-    - **More tools:** Figma for a Prototype of a project and Adobe XD or Adobe Illustrator for a Wireframe of a project.
-    - *Good management with Linux and Windows.*
+- **Web Development:** JavaScript, Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
+- **Tools that I use:** Google DevTools, Visual Studio Code, Markdown, Git, GitHub, NodeJS, Bash Unix Shell & Windows PowerShell.
+- **More tools:** Figma for a Prototype of a project and Adobe XD or Adobe Illustrator for a Wireframe of a project.
+- *Good management with Linux and Windows.*
 
-    <br>
+<br>
 
-    - **Other languages:** Python, Lua.
-    - **Mobile Development:** Lua.
-    - *I can talk In English & Spanish.*
+- **Other languages:** Python, Lua.
+- **Mobile Development:** Lua.
+- *I can talk In English & Spanish.*
 
 
 - In my career in programming, interacting with other programmers, and in so much self-learning too, I have acquired essentials **Soft Skills** too.
