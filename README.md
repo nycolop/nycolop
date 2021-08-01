@@ -1,15 +1,17 @@
-Hello, I'm Nicolás and I am a self-taught Web Developer. I'm working of freelancer.
-I enjoy scripting oriented programming languages, like JavaScript, Python and Lua, and I'm trying to improve everyday.
+# Hello, I'm Nicolás and I am a self-taught **Web Developer**. I'm working of freelancer.
+## I enjoy scripting oriented programming languages, like JavaScript, Python and Lua, and I'm trying to improve everyday.
 
-- Hard Skills:
-    - Web Development: JavaScript, Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
-    - Tools that I use: Google DevTools, Visual Studio Code, Markdown, Git, GitHub, NodeJS, Bash Unix Shell & Windows PowerShell.
-    - More tools: Figma for a Prototype of a project and Adobe XD or Adobe Illustrator for a Wireframe of a project.
-    - Good management with Linux and Windows.
+- **Hard Skills:**
+    - **Web Development:** JavaScript, Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
+    - **Tools that I use:** Google DevTools, Visual Studio Code, Markdown, Git, GitHub, NodeJS, Bash Unix Shell & Windows PowerShell.
+    - **More tools:** Figma for a Prototype of a project and Adobe XD or Adobe Illustrator for a Wireframe of a project.
+    - *Good management with Linux and Windows.*
 
-    - Other languages: Python, Lua.
-    - Mobile Development: Lua.
-    - I can talk In English & Spanish.
+    <br>
+
+    - **Other languages:** Python, Lua.
+    - **Mobile Development:** Lua.
+    - *I can talk In English & Spanish.*
 
 
 - In my career in programming, interacting with other programmers, and in so much self-learning too, I have acquired essentials Soft Skills too.
