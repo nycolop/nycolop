@@ -1,11 +1,11 @@
-<section align="center">
+<div align="center">
 
 # **Hola!!, I'm Nico**
 ## **Web Developer**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
+</div>
 
 <section align="center">
 <article>
