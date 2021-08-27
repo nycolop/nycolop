@@ -1,4 +1,4 @@
-<section style="text-align: center">
+<section>
 
 # **Hola!!, I'm Nico**
 ## **Web Developer**
@@ -7,17 +7,18 @@
 
 </section>
 
-<section style="display: flex; justify-content: space-around">
-<article style="text-align: center">
+<section id="probe">
+<article>
 
 ### **Languages**
 <p>JavaScript</p>
+<img src="./assets/js.png" alt="js">
 <p>CSS3</p>
 <p>HTML5</p>
 <p>Markdown</p>
 
 </article>
-<article style="text-align: center">
+<article>
 
 ### **Frameworks**
 <p>React & Redux</p>
@@ -26,7 +27,7 @@
 <p>Bootstrap</p>
 
 </article>
-<article style="text-align: center">
+<article>
 
 ### **Test Driven Development**
 <p>Mocha & Chai</p>
@@ -34,7 +35,7 @@
 <p>Red-Green-Refactor technique</p>
 
 </article>
-<article style="text-align: center">
+<article>
 
 ### **Tools**
 <p>Git & GitHub</p>
@@ -75,3 +76,10 @@
              - Here my contact medias: 
              - Linkedin: www.linkedin.com/in/nicogamy
              - E-mail: madrazonecogamy@gmail.com
+
+<style>
+#probe {
+    display: flex;
+    justify-content: space-between;
+}
+</style>
