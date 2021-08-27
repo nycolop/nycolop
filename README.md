@@ -1,4 +1,4 @@
-<section>
+<section align="center">
 
 # **Hola!!, I'm Nico**
 ## **Web Developer**
@@ -7,40 +7,83 @@
 
 </section>
 
-<section id="probe">
+<section align="center">
 <article>
 
 ### **Languages**
 <p>JavaScript</p>
-<img src="./assets/js.png" alt="js">
+
+![javascript](./assets/js.png)
+
 <p>CSS3</p>
+
+![css](./assets/css3.png)
+
+
 <p>HTML5</p>
+
+![html](./assets/html.png)
+
 <p>Markdown</p>
 
+![markdown](./assets/markdown.png)
+
 </article>
+<br>
 <article>
 
-### **Frameworks**
+### **Frameworks, Libraries, or like**
 <p>React & Redux</p>
+
+![react](./assets/react.png) 
+![redux](./assets/redux.png)
+
 <p>Jquery</p>
+
+![jquery](./assets/jquery.png)
+
 <p>Sass</p>
+
+![sass](./assets/sass.png)
+
 <p>Bootstrap</p>
 
+![bootstrap](./assets/bootstrap.png)
+
 </article>
+<br>
 <article>
 
 ### **Test Driven Development**
 <p>Mocha & Chai</p>
+<img width="50px" src="./assets/mocha.svg" alt="mocha">
+<img width="50px" src="./assets/chai.png" alt="chai">
+
 <p>Jest & Enzyme for React Apps</p>
+
+![jest](./assets/jest.ico)
+
 <p>Red-Green-Refactor technique</p>
+<img width=200 src="./assets/red-green-refactor.png" alt="rgr">
 
 </article>
+<br>
 <article>
 
 ### **Tools**
 <p>Git & GitHub</p>
+
+![git](./assets/git.png)
+![github](./assets/github.png)
+
 <p>NodeJS</p>
+
+![node](./assets/node.png)
+
 <p>Npm - Yarn</p>
+
+![npm](./assets/npm.png)
+![yarn](./assets/yarn.png)
 
 </article>
 </section>
@@ -54,7 +97,7 @@
 
 <br>
 
-<section style="text-align: center">
+<section align="center">
 
 *I speak English and Spanish :)*
 
@@ -63,6 +106,8 @@
 </section>
 
 <br>
+
+<section>
 
 - In my career in programming, interacting with other programmers, and in so much self-learning too, I have acquired essentials **Soft Skills** too.
 - **And the most important that I have acquired It's:** *Self-Learning(Self-taught learning)*, *Researching(Useful skill)*, *Problem-Solving(Too important)*, *Teamwork(working with other programmers)*, *a bit of leadership(I was leader in some projects)*.
@@ -77,9 +122,4 @@
              - Linkedin: www.linkedin.com/in/nicogamy
              - E-mail: madrazonecogamy@gmail.com
 
-<style>
-#probe {
-    display: flex;
-    justify-content: space-between;
-}
-</style>
+</section>
