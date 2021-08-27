@@ -1,22 +1,65 @@
-# Hola!, I'm Nicolás.
-## I'm a **Web Developer**.
-## I enjoy Scripting Oriented Programming languages, like JavaScript, Python and Lua, and I'm trying to improve everyday.
+<section style="text-align: center">
 
-<br>
+# **Hola!!, I'm Nico**
+## **Web Developer**
 
-## **Hard Skills:**
-- **Web Development:** JavaScript(AJAX - API's), Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</section>
+
+<section style="display: flex; justify-content: space-around">
+<article style="text-align: center">
+
+### **Languages**
+<p>JavaScript</p>
+<p>CSS3</p>
+<p>HTML5</p>
+<p>Markdown</p>
+
+</article>
+<article style="text-align: center">
+
+### **Frameworks**
+<p>React & Redux</p>
+<p>Jquery</p>
+<p>Sass</p>
+<p>Bootstrap</p>
+
+</article>
+<article style="text-align: center">
+
+### **Test Driven Development**
+<p>Mocha & Chai</p>
+<p>Jest & Enzyme for React Apps</p>
+<p>Red-Green-Refactor technique</p>
+
+</article>
+<article style="text-align: center">
+
+### **Tools**
+<p>Git & GitHub</p>
+<p>NodeJS</p>
+<p>Npm - Yarn</p>
+
+</article>
+</section>
+
+<!-- - **Web Development:** JavaScript(AJAX - API's), Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
 - **Test Driven Development**: Mocha, Chai, Assert Libraries, Jest, Enzyme (The last two for testing React Apps), and with RGR (Red-Green-Refactor) principle in mind.
 - **What I use to work:** Git, GitHub, NodeJS, Npm, Yarn.
 - **Other tools:** Google DevTools, Visual Studio Code, Bash Unix Shell & Windows PowerShell.
 - **Web Design:** Figma for a Prototype or Wireframe of a project, or Designs.
-- *Good management with Linux and Windows.*
+- *I love Linux but I use Windows for work* -->
 
 <br>
 
-- **Other languages:** Python, Lua.
-- **Mobile Development:** Lua.
-- *I speak English and Spanish.*
+<section style="text-align: center">
+
+*I speak English and Spanish :)*
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</section>
 
 <br>
 
