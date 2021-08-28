@@ -67,7 +67,7 @@
 <img width=200 src="./assets/red-green-refactor.png" alt="rgr">
 
 </article>
-<br>
+<br><br>
 <article>
 
 ### **Tools**
@@ -96,14 +96,15 @@
 - *I love Linux but I use Windows for work* -->
 
 <br>
+<br>
 
-<section align="center">
+<div align="center">
 
 *I speak English and Spanish :)*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</section>
+</div>
 
 <br>
 
