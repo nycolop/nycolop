@@ -7,7 +7,7 @@
 
 </div>
 
-<section align="center">
+<div align="center">
 <article>
 
 ### **Languages**
@@ -86,7 +86,7 @@
 ![yarn](./assets/yarn.png)
 
 </article>
-</section>
+</div>
 
 <!-- - **Web Development:** JavaScript(AJAX - API's), Jquery, React & Redux, CSS3, Sass, Bootstrap, HTML5, Markdown.
 - **Test Driven Development**: Mocha, Chai, Assert Libraries, Jest, Enzyme (The last two for testing React Apps), and with RGR (Red-Green-Refactor) principle in mind.
