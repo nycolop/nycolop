@@ -4,6 +4,8 @@
 ## **Web Developer**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+![codewars](https://www.codewars.com/users/nicogamy/badges/large)
 
 </div>
 
