@@ -1,8 +1,8 @@
 <h2 align="center">Hola!! I'm Nico, a Web Developer :)</h2>
 <div align="center" style="display: inline_block;">
     <a href="https://github.com/necogamy" />
-    <img height="180em" width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight" />
-    <img height="180em" width="200px" src="https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight" />
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight" />
+    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight" />
 </div>
 <div style="display: inline_block"><br />
 	<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -28,6 +28,12 @@
 	<img align="center" alt="Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 	<img align="center" alt="Filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 	<img align="center" alt="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+	<img align="center" alt="Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+	<img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+	<img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+	<img align="center" alt="yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+	<img align="center" alt="Socket.io" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+	<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
   ##
