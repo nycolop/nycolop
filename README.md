@@ -1,7 +1,7 @@
 <h2 align="center">Hola!! I'm Nico, a Web Developer :)</h2>
 <div align="center" style="display: inline_block;">
     <a href="https://github.com/necogamy" />
-    <img height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight" />
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight" />
     <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight" />
 </div>
 <div style="display: inline_block"><br />
