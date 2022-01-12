@@ -1,8 +1,8 @@
 <h2 align="center">Hola!! I'm Nico, a Web Developer :)</h2>
 <div align="center" style="display: inline_block;">
     <a href="https://github.com/necogamy" />
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight" />
-    <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight" />
+    <img height="180em" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=necogamy&layout=compact&langs_count=10&theme=tokyonight" />
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=necogamy&show_icons=true&theme=tokyonight" />
 </div>
 <div style="display: inline_block"><br />
 	<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
