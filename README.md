@@ -6,7 +6,7 @@
     <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=nycolop&show_icons=true&theme=tokyonight" />
 </div>
 
-\
+<br />
 
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=nycolop" alt="nycolop" />
