@@ -1,5 +1,3 @@
-<h2 align="center">Hola!! I'm Nico :)</h2>
-
 <div align="center" style="display: inline_block;">
     <a href="https://github.com/necogamy" />
     <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolop&layout=compact&langs_count=10&theme=tokyonight" />
